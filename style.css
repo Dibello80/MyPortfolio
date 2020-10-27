@@ -1,0 +1,17 @@
+body {
+    background: url('futuground.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  img {
+      margin-right: 20px;
+      
+  }
+
+  p {
+      font-family: monospace;
+      font-size: large;
+  }
