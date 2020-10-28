@@ -21,6 +21,7 @@ the body of the html was applied to all three pages. The container white box was
 container fits the page automatically based on what's inside of it. I've achieved this setting giving to the container the "height:auto" value.
 
 
+
 ## Credits
 
 © 2020 Angelo Rocky Dibello - Web Developer
