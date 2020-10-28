@@ -1,86 +1,59 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Your Project Title
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+My project title it's called "Myportfolio" 
 
 
-## Directions
+## Description 
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+This project is a simple personal portfolio built with three html pages. The first page (Home) is the heart of this portfolio.
+The "Home" page includes a navbar where is possibile to navigate through the portfolio and its links. It's the main page of the website
+and has a Bio section called "About me". I've used a very clear font to make sure it's clean and readable. I've choosen the courier font
+to write the description of "About me" because based on the "fictional comic book" style of this website I think it was a good match.
+to create this page first of all I've picked a futurist background image which I've place inside the html body. After doing so I wanted to
+create a container to have the main box where my Aboutme/Bio would be placed. Inside the main container has you can see I've placed a picture
+which is about my favorite fictional character "Marvin" from " The Hitchhiker's Guide to the Galaxy". The paragraph in the Bio are actually the lyrics 
+of Radiohead's song "Paranoid Android" which was inspired by Marvin character has the band once claimed during an interview. When we move to the "Portfolio"
+page using the navbar here we will have all my work that I've done has web developer but since this is just a demo I've used a dark humour pic of Marvin instead.
+The Portfolio section has a navbar has well so you are able to navigate through the website anytime no matter what page you're in. I've done the same for the contact page.
+The "Contact" page is a very simple box where you can submit you're name, you're email and send me a message so we are able to keep in touch for any sort of future collaboration.
+You can see that the background picture that resides in the body of the html was applied to all three pages. The container white box was applied to all three pages as well. 
+You can notice that the white container fits the page automatically based on what's inside of it. I've achieved this setting giving to the container's the "height:auto" value.
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
 
-* Using Bootstrap, develop your portfolio site with the following items:
 
-   * A navbar
+## Table of Contents (Optional)
 
-   * A responsive layout
+If your README is very long, add a table of contents to make it easy for users to find what they need.
 
-   * Responsive images
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-* The Bootstrap portfolio should minimize the use of media queries.
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+## Installation
 
-### Hints
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-* Use Bootstrap's grid system (containers, rows, and columns).
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+## Usage 
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+Provide instructions and examples for use. Include screenshots as needed. 
 
-### Minimum Requirements
 
-* Functional, deployed application
+## Credits
 
-* GitHub repository with README describing the project
+List your collaborators, if any, with links to their GitHub profiles.
 
-* Navbar must be consistent on each page.
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+If you followed tutorials, include links to those here as well.
 
-* All links must work.
 
-* Must use semantic html.
 
-* Each page must have valid and correct HTML. (use a validation service)
+## License
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
 
-* Must properly utilize Bootstrap components and grid system.
-
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
