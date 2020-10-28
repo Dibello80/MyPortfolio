@@ -1,5 +1,5 @@
 body {
-    background: url('futuground.jpeg') no-repeat center center fixed;
+    background: url("img/futuground.jpeg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -16,8 +16,8 @@ body {
       font-size: large;
   }
 
- h1, h2, h3, {
-     font-family: sans-serif;
- }
-
+h1, h2, h3 {
+    
+    font-family: sans-serif;
+}
 
