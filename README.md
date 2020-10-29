@@ -1,6 +1,6 @@
-# Your Project Title
+# Project Title
 
-My project title is called "My Portfolio" 
+My project is called "My Portfolio" 
 
 
 ## Description 
